@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring-mvc" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-source-study" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-v1" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-v2" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-v3" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-v4" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-v1/pom.xml" />
+        <option value="$PROJECT_DIR$/write-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-webflux-study/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-v4/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-v3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-v2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-source-study/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-study-starter-use/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-study-source/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-study-share-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-study-share/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-study-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-study1/pom.xml" />
+        <option value="$PROJECT_DIR$/toys-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

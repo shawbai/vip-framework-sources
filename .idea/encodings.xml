@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-boot-study-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-study-share" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-study-share-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-study-source" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-study-starter-use" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-study1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-mvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-source-study" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-v1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-v2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-v3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-v4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-webflux-study" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/write-mybatis" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//ibatis.apache.org//DTD Mapper 3.0//EN" "http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd">
+<mapper namespace="com.toys.dao.UserDao">
+
+  <select id="findUserById" resultType="com.toys.entity.User" >
+      select * from user where id = #{id}
+   </select>
+  <select id="findAllUsers" resultType="com.toys.entity.User">
+
+  </select>
+
+  <!-- 对应userDao中的insertUser方法，  -->
+  <insert id="insertUser" parameterType="com.toys.entity.User">
+           insert into user(id, name, password, age, deleteFlag) 
+               values(#{id}, #{name}, #{password}, #{age}, #{deleteFlag})
+   </insert>
+
+  <!-- 对应userDao中的updateUser方法 -->
+  <update id="updateUser" parameterType="com.toys.entity.User">
+           update user set name = #{name}, password = #{password}, age = #{age}, deleteFlag = #{deleteFlag}
+               where id = #{id};
+   </update>
+
+  <!-- 对应userDao中的deleteUser 方法 -->
+  <delete id="deleteUser" parameterType="com.toys.entity.User">
+           delete from user where id = #{id};
+   </delete>
+</mapper>

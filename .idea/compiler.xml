@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-study-config" />
+        <module name="spring-boot-study-share" />
+        <module name="spring-boot-study-share-starter" />
+        <module name="spring-boot-study-source" />
+        <module name="spring-boot-study-starter-use" />
+        <module name="spring-boot-study1" />
+        <module name="spring-mvc" />
+        <module name="spring-source-study" />
+        <module name="spring-v1" />
+        <module name="spring-v2" />
+        <module name="spring-v3 (1)" />
+        <module name="spring-v3 (2)" />
+        <module name="spring-webflux-study" />
+        <module name="toys-web" />
+        <module name="write-mybatis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-study-config" target="1.8" />
+      <module name="spring-boot-study-share" target="1.5" />
+      <module name="spring-boot-study-share-starter" target="1.5" />
+      <module name="spring-boot-study-source" target="1.8" />
+      <module name="spring-boot-study-starter-use" target="1.8" />
+      <module name="spring-boot-study1" target="1.8" />
+      <module name="spring-mvc" target="1.8" />
+      <module name="spring-source-study" target="1.8" />
+      <module name="spring-v1" target="1.8" />
+      <module name="spring-v2" target="1.8" />
+      <module name="spring-v3 (1)" target="1.8" />
+      <module name="spring-v3 (2)" target="1.8" />
+      <module name="spring-webflux-study" target="1.8" />
+      <module name="toys-web" target="1.5" />
+      <module name="write-mybatis" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

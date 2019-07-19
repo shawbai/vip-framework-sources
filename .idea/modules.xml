@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-study-config/spring-boot-study-config.iml" filepath="$PROJECT_DIR$/spring-boot-study-config/spring-boot-study-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-study-share/spring-boot-study-share.iml" filepath="$PROJECT_DIR$/spring-boot-study-share/spring-boot-study-share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-study-share-starter/spring-boot-study-share-starter.iml" filepath="$PROJECT_DIR$/spring-boot-study-share-starter/spring-boot-study-share-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-study-source/spring-boot-study-source.iml" filepath="$PROJECT_DIR$/spring-boot-study-source/spring-boot-study-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-study-starter-use/spring-boot-study-starter-use.iml" filepath="$PROJECT_DIR$/spring-boot-study-starter-use/spring-boot-study-starter-use.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-study1/spring-boot-study1.iml" filepath="$PROJECT_DIR$/spring-boot-study1/spring-boot-study1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-mvc.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-source-study/spring-source-study.iml" filepath="$PROJECT_DIR$/spring-source-study/spring-source-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-v1/spring-v1.iml" filepath="$PROJECT_DIR$/spring-v1/spring-v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-v2/spring-v2.iml" filepath="$PROJECT_DIR$/spring-v2/spring-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-v3/spring-v3 (1).iml" filepath="$PROJECT_DIR$/spring-v3/spring-v3 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-v4/spring-v3 (2).iml" filepath="$PROJECT_DIR$/spring-v4/spring-v3 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-webflux-study/spring-webflux-study.iml" filepath="$PROJECT_DIR$/spring-webflux-study/spring-webflux-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toys-web/toys-web.iml" filepath="$PROJECT_DIR$/toys-web/toys-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vip-framework-sources.iml" filepath="$PROJECT_DIR$/.idea/vip-framework-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/write-mybatis/write-mybatis.iml" filepath="$PROJECT_DIR$/write-mybatis/write-mybatis.iml" />
+    </modules>
+  </component>
+</project>

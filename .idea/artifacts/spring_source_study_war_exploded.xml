@@ -1,0 +1,38 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spring-source-study:war exploded">
+    <output-path>$PROJECT_DIR$/spring-source-study/target/spring-source-study</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spring-source-study" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.1.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.1.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.1.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.1.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.1.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.1.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.1.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.1.3.RELEASE" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.1.12" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.47" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.9.1" />
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.11.1" />
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.11.1" />
+          <element id="library" level="project" name="Maven: javax.transaction:javax.transaction-api:1.3" />
+          <element id="library" level="project" name="Maven: com.atomikos:transactions-jdbc:4.0.6" />
+          <element id="library" level="project" name="Maven: com.atomikos:transactions-jta:4.0.6" />
+          <element id="library" level="project" name="Maven: com.atomikos:transactions-api:4.0.6" />
+          <element id="library" level="project" name="Maven: com.atomikos:transactions:4.0.6" />
+          <element id="library" level="project" name="Maven: com.atomikos:atomikos-util:4.0.6" />
+          <element id="library" level="project" name="Maven: com.atomikos:transactions-jms:4.0.6" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/spring-source-study/target/spring-source-study/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="spring-source-study/web/Web" />
+    </root>
+  </artifact>
+</component>
